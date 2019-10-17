@@ -25,6 +25,7 @@ def remove_element_from_end_of_array(array)
   toddler_toys=["crayons","playdoh","train","bear"]
   bear_toy=toddler_toys.pop
   p toddler_toys
+  p bear_toy
 end
 
 def remove_element_from_start_of_array(array)
