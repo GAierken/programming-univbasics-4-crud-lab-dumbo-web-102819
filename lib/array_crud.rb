@@ -46,7 +46,8 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-
+  toddler_toys=["wow","playdoh","am","arrays!"]
+  toddler_toys[-1]
 end
 
 def update_element_from_index(array, index_number, element)
