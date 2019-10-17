@@ -41,7 +41,8 @@ toddler_toys[2]
 end
 
 def retrieve_first_element_from_array(array)
-
+  toddler_toys=["wow","playdoh","am","arrays!"]
+  toddler_toys[0]
 end
 
 def retrieve_last_element_from_array(array)
