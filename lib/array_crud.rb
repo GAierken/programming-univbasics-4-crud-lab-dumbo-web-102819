@@ -22,7 +22,9 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-
+  toddler_toys=["crayons","playdoh","train","bear"]
+  toddler_toys.unshift"wow"
+  p toddler_toys
 end
 
 def remove_element_from_start_of_array(array)
