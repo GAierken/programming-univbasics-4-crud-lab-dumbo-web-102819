@@ -51,5 +51,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+  oddler_toys=["wow","playdoh","am","arrays!"]
+  toddler_toys[2]="totally"
 end
