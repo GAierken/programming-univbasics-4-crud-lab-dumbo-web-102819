@@ -53,5 +53,5 @@ end
 def update_element_from_index(array, index_number, element)
   toddler_toys=["wow","playdoh","am","arrays!"]
   toddler_toys[2]= "totally"
-  
+
 end
