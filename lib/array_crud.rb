@@ -23,7 +23,7 @@ end
 
 def remove_element_from_end_of_array(array)
   toddler_toys=["crayons","playdoh","train","bear"]
-  toddler_toys.unshift"wow"
+  bear_toy=toddler_toys.pop
   p toddler_toys
 end
 
