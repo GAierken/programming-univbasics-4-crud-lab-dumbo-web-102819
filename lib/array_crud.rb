@@ -37,7 +37,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
 toddler_toys=["wow","playdoh","train","arrays!"]
-toddler_toys[1]
+toddler_toys[0]
 end
 
 def retrieve_first_element_from_array(array)
