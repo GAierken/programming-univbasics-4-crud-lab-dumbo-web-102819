@@ -9,7 +9,8 @@ end
 
 def add_element_to_end_of_array(array, element)
 toddler_toys=["crayons","playdoh","train","bear"]
-toddler_toys<<"books"  
+toddler_toys<<"books"
+p toddler_toys
 
 end
 
