@@ -30,7 +30,7 @@ end
 
 def remove_element_from_start_of_array(array)
   toddler_toys=["crayons","playdoh","train","arrays!"]
-  bear_toy=toddler_toys.pop
+  bear_toy=toddler_toys.shift
   p toddler_toys
   p bear_toy
 end
